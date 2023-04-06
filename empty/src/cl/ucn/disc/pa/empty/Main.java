@@ -8,7 +8,7 @@ import java.awt.*;
 /**
  * The Main class.
  *
- * @Alonso
+ * @AlonsoRV
  */
 public class Main{
     /**
