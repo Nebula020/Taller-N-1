@@ -215,7 +215,7 @@ public class Main{
 
 
             /**
-             * Actualizar la Posicion De Las lineas sumandole la "velocidad" a su pocicion que tienen
+             * Actualizar la Posicion De Las lineas sumandole la "velocidad" a su posicion que tienen
              */
 
             //Linea 1
