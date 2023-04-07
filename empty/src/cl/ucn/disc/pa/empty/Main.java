@@ -1,14 +1,11 @@
 package cl.ucn.disc.pa.empty;
-
 import edu.princeton.cs.stdlib.StdDraw;
-import edu.princeton.cs.stdlib.StdOut;
-
 import java.awt.*;
 
 /**
  * The Main class.
  *
- * @AlonsoRV
+ *
  */
 public class Main{
     /**
@@ -183,7 +180,7 @@ public class Main{
 
 
 
-            // Actualizar la Posicion
+            // Actualizar la Posicion De
             x01 += vx01;
             y01 += vy01;
             x11 += vx11;
